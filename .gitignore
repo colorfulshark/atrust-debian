@@ -1,0 +1,4 @@
+*.deb
+__pycache__/
+.atrust-repack-*/
+.atrust-integration-*/
